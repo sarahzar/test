@@ -12,5 +12,10 @@
   		<artifactId>server-sidz</artifactId>
   		<version>0.0.1-SNAPSHOT</version>
   	</dependency>
+  	<dependency>
+  		<groupId>project.test.module</groupId>
+  		<artifactId>server-side</artifactId>
+  		<version>0.0.1-SNAPSHOT</version>
+  	</dependency>
   </dependencies>
 </project>
