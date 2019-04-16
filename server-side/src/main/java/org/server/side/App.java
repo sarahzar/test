@@ -10,4 +10,9 @@ public class App
     {
         System.out.println( "Hello server!" );
     }
+    
+    public String msg() {
+    	
+    	return "hello";
+    }
 }
